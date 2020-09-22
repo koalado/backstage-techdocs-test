@@ -4,7 +4,7 @@ metadata:
   name: backstage-techdocs-test-component
   description: A Service with TechDocs documentation for backstage
   annotations:
-    backstage.io/techdocs-ref: dir:./
+    backstage.io/techdocs-ref: 'github:https://github.com/koalado/backstage-techdocs-test/blob/master'
 spec:
   type: service
   lifecycle: experimental
