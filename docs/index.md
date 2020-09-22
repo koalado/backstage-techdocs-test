@@ -1,3 +1,3 @@
-# Hi
+# example docs
 
-These are the docs
+This is a basic example of documentation.
